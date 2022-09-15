@@ -1,4 +1,4 @@
-# libs
+
 function hello(){
   Bot.sendMessage("Hello from lib!")
 }
